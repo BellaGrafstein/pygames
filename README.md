@@ -1,2 +1,2 @@
-# pygames
-A repo to store my pygames
+# Pygames!
+The pygame repo
